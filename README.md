@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Electronics Engineering student.
+Learning how to use Git and GitHub for the first time.
 <!--
 **Rowena007/Rowena007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
